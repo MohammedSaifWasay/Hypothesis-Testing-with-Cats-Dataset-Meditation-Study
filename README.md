@@ -71,7 +71,7 @@ Sleep scores for 10 students were measured **before** and **after** a meditation
 - R Documentation. (2023). *An Introduction to R*. [CRAN Manual](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Related-software-and-documentation)
 - Byju's. (2023). *Null Hypothesis*. [Byju's Math](https://byjus.com/maths/null-hypothesis/)
 
-- ## 🧠 Author  
+## 🧠 Author  
 **Mohammed Saif Wasay**  
 *Data Analytics Graduate – Northeastern University*  
 *Machine Learning Enthusiast | Passionate about turning data into insights*
